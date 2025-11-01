@@ -2,7 +2,6 @@ This is a mini-project involving a clone of Microsoft Landing Page
 
 Landing Page First Half
 
-![Preview](previews/main-page-first.png)
 
 Landing Page Second Half
 
