@@ -6,8 +6,8 @@ Landing Page First Half
 
 Landing Page Second Half
 
-![Preview](previews/main-page-second.png)
+![Preview](previews/main-page-last.png)
 
 Responsive Menu on Mobile/Tablet
 
-![Preview](previews/responsive menu.png)
+![Preview](previews/responsive-menu.png)
