@@ -11,3 +11,6 @@ Landing Page Second Half
 Responsive Menu on Mobile/Tablet
 
 ![Preview](previews/responsive-menu.png)
+
+End of preview
+
